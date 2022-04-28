@@ -108,6 +108,14 @@ nav li{
     transform: scale(1.2); 
 }
 
+.divImg3 {
+    transition: transform .2s; 
+}
+ 
+.divImg3:hover {
+    transform: scale(1.2); 
+}
+
 
 .articulo1{
 	text-align:center ;
