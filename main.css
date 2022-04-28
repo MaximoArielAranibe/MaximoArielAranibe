@@ -91,6 +91,24 @@ nav li{
 	height: 400px;
 }
 
+
+.divImg {
+    transition: transform .2s; 
+}
+ 
+.divImg:hover {
+    transform: scale(1.2); 
+}
+
+.divImg2 {
+    transition: transform .2s; 
+}
+ 
+.divImg2:hover {
+    transform: scale(1.2); 
+}
+
+
 .articulo1{
 	text-align:center ;
 }
