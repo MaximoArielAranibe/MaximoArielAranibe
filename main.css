@@ -252,6 +252,10 @@ header p{
 	}
 }
 
+@media screen and (min-width:300px){
+
+}
+
 @media screen and (min-width:1024px){
 nav ul{
 	padding-left: 360px;
